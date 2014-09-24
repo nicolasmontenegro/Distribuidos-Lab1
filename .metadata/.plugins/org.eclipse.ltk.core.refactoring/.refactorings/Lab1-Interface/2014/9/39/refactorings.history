@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.lab1.pkginterface.Lab1Interface&apos; to &apos;TestRemote&apos;&#x0D;&#x0A;- Original project: &apos;Lab1-Interface&apos;&#x0D;&#x0A;- Original element: &apos;com.lab1.pkginterface.Lab1Interface&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lab1.pkginterface.TestRemote&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Lab1Interface&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.lab1.pkginterface{Lab1Interface.java[Lab1Interface" matchStrategy="1" name="TestRemote" qualified="false" references="true" similarDeclarations="false" stamp="1411445132679" textual="false" version="1.0"/>
+</session>
